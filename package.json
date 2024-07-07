@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AbdulMoqueet/todo-app.git"
+    "url": "git+https://github.com/SwarnabhaPradhan/todo-app.git"
   },
-  "author": "Abdul Moqueet",
+  "author": "Swarnabha Pradhan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AbdulMoqueet/todo-app/issues"
+    "url": "https://github.com/SwarnabhaPradhan/todo-app/issues"
   },
   "homepage": "https://github.com/SwarnabhaPradhan/todo-app#readme",
   "dependencies": {
